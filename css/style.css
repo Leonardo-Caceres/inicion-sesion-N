@@ -1,0 +1,17 @@
+body{
+    background: url(https://www.economiadigital.es/wp-content/uploads/2021/03/Netflix-1000x665.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-none{
+    height: 100px;
+}
+
+.login-content{
+    height: 400px;
+    width: 400px;
+    display: block;
+    border-radius: 5px;
+    opacity: 90%;
+}
